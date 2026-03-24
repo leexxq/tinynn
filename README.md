@@ -1,1 +1,1 @@
-A tiny autograd and  nn implement
+A tiny autograd and nn implement
